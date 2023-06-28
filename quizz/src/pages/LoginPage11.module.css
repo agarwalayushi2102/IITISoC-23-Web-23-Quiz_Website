@@ -39,7 +39,7 @@
   left: 1000px;
   background-color:black ;
 }
-.loginPage1{
+.loginPage1{ 
    background-image: url(C:\Users\shekh\Documents\GitHub\IITISoC-23-Web-23-Quiz_Website\quizz\public\logo.png);
 }
 
@@ -105,7 +105,7 @@
   position: absolute;
   top: 577px;
   left: 35px;
-  transform: rotate(-89.99deg);
+  transform: rotate(-90deg);
   transform-origin: 0 0;
 }
 .text1 {
@@ -125,11 +125,11 @@
   display: inline-block;
   width: 128.37px;
   height: 45.84px;
-  transform: rotate(-89.75deg);
+  transform: rotate(-90deg);
 }
 .chemistry {
   top: 370px;
-  transform: rotate(-89.99deg);
+  transform: rotate(-90deg);
 }
 .rectangleIcon {
   top: 490px;

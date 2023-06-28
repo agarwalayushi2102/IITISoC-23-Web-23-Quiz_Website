@@ -25,7 +25,8 @@ const LoginPage11 = () =>
       <div className={styles.quizzyliciousWrapper} > 
         <div className={styles.quizzylicious}>Quizzylicious</div> {/*position*/}
       </div>
-     {/* <div className={styles.text}>{` `}</div> */}
+     
+
       <div className={styles.loginPage1Item} />
       <div className={styles.loginPage1Inner} />
       <div className={styles.rectangleDiv} />
