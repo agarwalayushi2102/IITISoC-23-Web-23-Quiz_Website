@@ -1,5 +1,5 @@
 import "bootstrap/dist/css/bootstrap.min.css";
-
+import { Button } from "react-bootstrap";
 const FrameComponent = () => {
   return (
     <div className="relative w-full h-[1024px] text-left text-5xl text-black font-inter">
