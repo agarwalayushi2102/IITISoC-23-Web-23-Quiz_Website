@@ -127,7 +127,7 @@ const FrameComponent = () => {
               <div className="absolute top-[27.69%] left-[4.58%] text-5xl font-inter text-black text-left hidden" />
             </Button>
             <Button className="cursor-pointer [border:none] p-0 bg-[transparent] absolute top-[644px] left-[695px] text-5xl font-inter text-black text-left inline-block">
-              START QUIZ
+              START 
             </Button>
           </div>
           <Button className="cursor-pointer [border:none] p-0 bg-[transparent] absolute top-[195px] left-[299px] text-5xl font-inter text-black text-left inline-block">
