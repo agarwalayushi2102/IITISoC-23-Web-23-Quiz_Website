@@ -15,7 +15,7 @@
   bottom: 0;
   left: 0;
  
- background-image: url(C:\Users\HP\Downloads\quiz\quizz\public\log.png );
+ background-image: url( C:\Users\shekh\Documents\GitHub\IITISoC-23-Web-23-Quiz_Website\quizz\public\log.png);
 }
 
 .component2,
@@ -40,7 +40,7 @@
   background-color:black ;
 }
 .loginPage1{
-   background-image: url(C:\Users\HP\Downloads\quiz\quizz\public\logo.png);
+   background-image: url(C:\Users\shekh\Documents\GitHub\IITISoC-23-Web-23-Quiz_Website\quizz\public\logo.png);
 }
 
 .loginPage1Child {
