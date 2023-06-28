@@ -6,7 +6,7 @@ const LoginPage11 = () =>
     
   
   return (
-    <div className={styles.loginPage1}>
+    <div className={styles.loginPage1}> {/*bg img*/}
  <Button className={styles.component11} variant="primary">
         contact
       </Button>
@@ -14,18 +14,18 @@ const LoginPage11 = () =>
         About us 
       </Button>
      
-      <div className={styles.component2} id="logo">
-        <div className={styles.component2Child} />
-        <div className={styles.logo}></div>
+      <div className={styles.component2} > {/* logo position*/}
+        <div className={styles.component2Child} /> {/*logo dimensions*/}
+        <div className={styles.logo}></div> {/*logo img*/}
     <image link="C:\Users\HP\Downloads\Screenshot 2023-06-16 182807.png"/>
       </div>
       
      
       <div className={styles.loginPage1Child} />
-      <div className={styles.quizzyliciousWrapper} id="title">
-        <div className={styles.quizzylicious}>Quizzylicious</div>
+      <div className={styles.quizzyliciousWrapper} > 
+        <div className={styles.quizzylicious}>Quizzylicious</div> {/*position*/}
       </div>
-      <div className={styles.text}>{` `}</div>
+     {/* <div className={styles.text}>{` `}</div> */}
       <div className={styles.loginPage1Item} />
       <div className={styles.loginPage1Inner} />
       <div className={styles.rectangleDiv} />
@@ -37,7 +37,7 @@ const LoginPage11 = () =>
       
       <div className={styles.quote}>
         <span>Try  Test  Analyse  Learn</span></div>
-      <Button className={styles.rectangleButton} variant="primary" id="admin">
+      <Button className={styles.rectangleButton} variant="primary" >
         Are you an admin?Login
       </Button>
       

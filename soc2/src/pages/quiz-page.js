@@ -141,7 +141,7 @@ const QuizPage = () => {
         <button className="cursor-pointer [border:none] p-0 bg-thistle absolute top-[5033px] left-[600px] rounded-3xl w-[199px] h-[70px]" />
         <button className="cursor-pointer [border:none] p-0 bg-[transparent] absolute top-[5044px] left-[630px] text-[40px] font-bold font-inter text-black text-left inline-block">
           Submit
-        </button>
+        </Button>
       </div>
       <div className="absolute top-[2165px] left-[72px] w-[1303px] h-[863px]">
         <div className="absolute top-[0px] left-[0px] w-[1303px] h-[863px]">
