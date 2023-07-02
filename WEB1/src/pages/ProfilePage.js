@@ -9,11 +9,13 @@ const ProfilePage = () => {
         <h1 className="quizzylicious">Quizzylicious</h1>
         <nav className="component-item" />
         <Button className="component-1" variant="primary">
-          About us
+          Contact us
         </Button>
-        <Button className="contact" variant="primary" id="cntc">
+
+       {/*} <Button className="contact" variant="primary" id="cntc">
           contact
-        </Button>
+  </Button> */}
+  
       </div>
       <div className="profile-page-child" />
       <img className="profile-page-item" alt="" src="/ellipse-2@2x.png" />
@@ -34,7 +36,7 @@ const ProfilePage = () => {
         </div>
       </div>
       <div className="profile-page-inner" />
-      <div className="home-page">Home Page</div>
+     <Button> <div className="home-page">Home Page</div> </Button> 
     </div>
   );
 };

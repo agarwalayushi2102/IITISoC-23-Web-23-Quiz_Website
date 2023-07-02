@@ -45,7 +45,7 @@ const LoginPage11 = () =>
       <Button
         className={styles.loginPage1Child1}
         variant="primary"
-        id="sign up"
+        
       >
         Sign up
 
@@ -54,7 +54,7 @@ const LoginPage11 = () =>
       <Button
         className={styles.loginPage1Child2}
         variant="primary"
-        id="login"
+        
       >
         Login
 
