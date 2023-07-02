@@ -55,20 +55,20 @@
 }
 .profile-page-child {
   position: absolute;
-  top: 77px;
-  left: 481px;
+  top: 250px;
+  left: 620px;
   border-radius: 50%;
   background-color: var(--color-lightblue);
-  width: 477px;
-  height: 477px;
+  width: 251px;
+  height: 251px;
 }
 .profile-page-item {
   position: absolute;
-  top: 123px;
-  left: 527px;
+  top: 250px;
+  left: 620px;
   border-radius: 50%;
-  width: 385px;
-  height: 385px;
+  width: 251px;
+  height: 251px;
   object-fit: cover;
 }
 .component-inner,
@@ -171,15 +171,15 @@
   font-size: var(--font-size-5xl);
 }
 .profile-page-inner {
-  top: 355px;
-  left: 1064px;
+  top: 397px;
+  left: 1057px;
   background-color: #cbabe4;
   width: 287px;
   height: 92px;
 }
 .home-page {
   position: absolute;
-  top: 377px;
+  top: 408px;
   left: 1100px;
   font-size: 40px;
 }

@@ -35,8 +35,8 @@ const ProfilePage = () => {
           <p className="hey-there">lets check your progress.</p>
         </div>
       </div>
-      <div className="profile-page-inner" />
-     <Button> <div className="home-page">Home Page</div> </Button> 
+      
+     <Button  className="home-page"> Home Page </Button> 
     </div>
   );
 };
