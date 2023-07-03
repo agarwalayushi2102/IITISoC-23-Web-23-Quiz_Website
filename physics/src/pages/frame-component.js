@@ -88,7 +88,7 @@ const FrameComponent = () => {
             <Button className="cursor-pointer [border:none] p-0 bg-[transparent] absolute top-[25.07%] left-[23.38%] text-4xl font-bold font-inter text-black text-center inline-block">
               Current Electricity.
             </Button>
-          </section>
+          
           <div className="absolute top-[270px] left-[473px] text-10xl">
             <div className="absolute top-[0px] left-[14px] rounded-xl bg-darkslateblue-200 w-[921px] h-[726px]" />
             <div className="absolute top-[87px] left-[133px] font-bold">
