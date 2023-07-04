@@ -42,7 +42,9 @@ const FrameComponent = () => {
             </Button>
             <div className="absolute top-[27.69%] left-[4.58%] text-5xl font-inter text-black text-left" />
           </Button>
-         
+          <Button className="cursor-pointer [border:none] p-0 bg-[transparent] absolute top-[195px] left-[1006px] text-5xl font-inter text-black text-left inline-block">
+            CHEMISTRY
+          </Button>
           <Button className="cursor-pointer [border:none] p-0 bg-[transparent] absolute top-[177px] left-[637px] w-[153px] h-[65px]">
             <Button className="cursor-pointer [border:none] py-[18px] px-[25px] bg-thistle absolute h-full w-[99.35%] top-[0%] right-[0.65%] bottom-[0%] left-[0%] rounded-xl overflow-hidden flex flex-col box-border items-start justify-start">
               <div className="relative w-[102px] h-[29px] hidden">
@@ -55,7 +57,8 @@ const FrameComponent = () => {
           <Button className="cursor-pointer [border:none] p-0 bg-[transparent] absolute top-[195px] left-[672px] text-5xl font-inter text-black text-left inline-block">
             MATHS
           </Button>
-         
+          <section className="absolute top-[270px] left-[54px] w-[385px] h-[726px] text-left text-5xl text-white font-inter">
+            <div className="absolute h-full w-full top-[0%] right-[-1.3%] bottom-[0%] left-[1.3%] bg-darkslateblue-100" />
             <Button className="cursor-pointer [border:none] p-0 bg-gainsboro absolute h-[8.68%] w-[63.38%] top-[84.02%] right-[17.4%] bottom-[7.3%] left-[19.22%] rounded-8xl" />
             <Button className="cursor-pointer [border:none] p-0 bg-[transparent] absolute h-[7.71%] w-[67.01%] top-[85.12%] left-[18.7%] text-2xl font-bold font-inter text-black text-center inline-block">
               Electrostatic Potential and Capacitance.
@@ -88,7 +91,7 @@ const FrameComponent = () => {
             <Button className="cursor-pointer [border:none] p-0 bg-[transparent] absolute top-[25.07%] left-[23.38%] text-4xl font-bold font-inter text-black text-center inline-block">
               Current Electricity.
             </Button>
-          
+          </section>
           <div className="absolute top-[270px] left-[473px] text-10xl">
             <div className="absolute top-[0px] left-[14px] rounded-xl bg-darkslateblue-200 w-[921px] h-[726px]" />
             <div className="absolute top-[87px] left-[133px] font-bold">
@@ -114,13 +117,22 @@ const FrameComponent = () => {
               </p>
             </div>
             <Button className="cursor-pointer [border:none] p-0 bg-[transparent] absolute top-[626px] left-[689px] w-[153px] h-[65px]">
-             
+              <Button className="cursor-pointer [border:none] py-[18px] px-[25px] bg-thistle absolute h-full w-[99.35%] top-[0%] right-[0.65%] bottom-[0%] left-[0%] rounded-xl overflow-hidden flex flex-col box-border items-start justify-start">
+                <div className="relative w-[102px] h-[29px] hidden">
+                  <div className="absolute top-[0%] left-[0%] text-5xl font-inter text-black text-left">
+                    CHEMISTRY
+                  </div>
+                </div>
+              </Button>
               <div className="absolute top-[27.69%] left-[4.58%] text-5xl font-inter text-black text-left hidden" />
             </Button>
-            <Button className="cursor-pointer [border:none] p-0 bg-[transparent] absolute top-[644px] left-[695px] text-5xl font-inter text-black text-left inline-block">
+            <div className="cursor-pointer [border:none] p-0 bg-[transparent] absolute top-[640px] left-[720px] text-5xl font-inter text-black text-left inline-block">
               START 
-            </Button>
+            </div>
           </div>
+          <Button className="cursor-pointer [border:none] p-0 bg-[transparent] absolute top-[195px] left-[299px] text-5xl font-inter text-black text-left inline-block">
+            PHYSICS
+          </Button>
         </div>
       </div>
     </div>
