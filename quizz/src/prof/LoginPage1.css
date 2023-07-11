@@ -1,0 +1,179 @@
+.component-112 {
+  position: absolute;
+  top: 40px;
+  left: 1237px;
+}
+.component-2-icon {
+  position: absolute;
+  top: 222px;
+  left: 176px;
+  width: 364px;
+  height: 243px;
+  object-fit: cover;
+}
+.login-page-1-child {
+  position: absolute;
+  top: 403px;
+  left: calc(50% + 610px);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+  width: 1px;
+  height: 12px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.quizzylicious1 {
+  position: absolute;
+  top: 70px;
+  left: 53px;
+  display: inline-block;
+  width: 624px;
+  height: 116px;
+}
+.quizzylicious-wrapper {
+  position: absolute;
+  top: 222px;
+  left: 572px;
+  border-radius: var(--br-xl);
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #171e5a;
+  width: 742px;
+  height: 243px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 96px;
+  font-family: var(--font-josefin-sans);
+}
+.text {
+  position: absolute;
+  top: 59px;
+  left: 937px;
+  color: var(--color-black);
+}
+.component-child4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-midnightblue-100);
+}
+.login-page-1-child1,
+.login-page-1-inner,
+.login-page-1-item {
+  position: absolute;
+  top: 20px;
+  left: 10px;
+  width: 80px;
+  height: 180px;
+}
+.login-page-1-child1,
+.login-page-1-item {
+  top: 210px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-midnightblue-100);
+}
+.login-page-1-child1 {
+  top: 400px;
+}
+.mathematics {
+  position: absolute;
+  top: 577px;
+  left: 35px;
+  transform: rotate(-89.99deg);
+  transform-origin: 0 0;
+}
+.text1 {
+  position: absolute;
+  top: 515px;
+  left: 61px;
+  color: var(--color-black);
+}
+.chemistry4,
+.physics {
+  position: absolute;
+  left: 35px;
+  transform-origin: 0 0;
+}
+.physics {
+  top: 159.37px;
+  display: inline-block;
+  width: 128.37px;
+  height: 45.84px;
+  transform: rotate(-89.75deg);
+}
+.chemistry4 {
+  top: 370px;
+  transform: rotate(-89.99deg);
+}
+.qoute-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.try-test-analyse {
+  position: absolute;
+  height: 21.9%;
+  width: 63.95%;
+  top: 39.05%;
+  left: 19.92%;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+}
+.qoute {
+  position: absolute;
+  top: 490px;
+  left: 139px;
+  width: 1190px;
+  height: 210px;
+  font-size: 65px;
+  color: var(--color-black);
+  font-family: var(--font-gluten);
+}
+.frame-button {
+  width: 466px;
+  position: absolute;
+  top: 854px;
+  left: 20px;
+}
+.login-page-1-child2,
+.rectangle-button {
+  width: 220px;
+  position: absolute;
+  top: 870px;
+  left: 876px;
+}
+.login-page-1-child2 {
+  top: 869px;
+  left: 1123px;
+}
+.contact1 {
+  position: absolute;
+  top: 40px;
+  left: 1036px;
+}
+.login-page-1 {
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  background-image: url(/public/login-page--1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
